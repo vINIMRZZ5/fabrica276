@@ -1,5 +1,5 @@
 
-print("")
+print("Numero para a melhor skin")
 kit = float(input("Digite 1 para AK e 2 para M4> "))
 if kit == 1:
     print("Ak-Imperatriz")
